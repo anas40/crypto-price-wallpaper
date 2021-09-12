@@ -11,6 +11,7 @@ You can add upto 12 comma separated crypto tickers or coingecko crypto ids in th
 
 - Google Chrome
 - NodeJS (14>=)
+- Linux (cinnamon/gnome other distros can configure the command) and MacOS.
 
 ## Working
 
